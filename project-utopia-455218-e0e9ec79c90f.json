@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-utopia-455218",
+  "private_key_id": "e0e9ec79c90f153153039bd6b6334b4d1558b627",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDlhft46KLsVwB4\nXa9fVecmAE4tFYa4nnfugN15n1ILGnm8NTdEYC0EzbKoOU5UWBVYCxrBx9k4kBlp\nFmJEHrwixOobTBBEWwWXMHgKh/XMTA8N69DIrxMxeaaO/zmVV30Lk2jZkCzPJBOf\nvAZKBzPvutZ5OKYiZPe1ptZvN/+3vYzw8jVZBBiumVvCxolzO1x5p+GICcZpJzRn\npRGFJiy0U2JyQbx1GtYmNjRSAoQryiyYt/5/HE4+bEE223VSVhCEKbjZLBH0vPHN\ndrKILl51sLeXO6HgIzQ0GMZFQFpGRvFau0ytn1WzGnjC8lRg023vUBNFyBGOb/OF\nBShIFxvfAgMBAAECggEAEgstTYBVMo9vL4c564MLnjUSI3QyRThCa5ynP9G/d7T+\nOSzValaScD+Is7XeZQrc3rEjMNtSEqLHBJ5oXW+T6odtc6jp2UQ7yJRCxtBdox2f\nMo2r06/QkMHXm+oPllOsgzXBXX0tyjkAiLzibhZqRe0VW3reTXNMXMDzBNPm3zeG\n8iGtTAeBhZEmk5L7n2SgWvN79Vej1hS2Rs3bvFW7rCzVrrR75lfZYonPJInEYWrm\nZiZYLtYt08iDrMdU3yRlrrhZMVv9Ruf/z+IoD95JgcnJ3GX4/BylzrJJ9ERJPTXf\nYDf+jvulOoA06i+oWEOj6U/fkZz6j6a35DXGjptWYQKBgQD1xUuM5CyPuBlmWZQH\nP7lp+aEBRrH421YXER8MdBFRFjkSr3EgW9R5Ux5Kj3WLUfIJf7y2zs+tiBYWJQI3\nBV9bZwj+HRMzSVkYh4XcV7w7NqvhNsf6sXYE8OSWIlqUeGrUX8zZq4q+Sf1otfmR\nKPP9qrwuCdLTuAI6wVOtJS4D/wKBgQDvE5IioVAfFokN75jB+PtpzufFQhfmUA06\n1lSaRYjAO95I93OZAHU/S5uu1QEl1GjKFAU+9FHcnRPvgiyO+eVjyvJQlbqE/zXw\nzTMHh1avn093kRwq2kOcTTsugPc85cyUzezTWGOdjL+T+VOG58F/Ww11kellqA4s\nc+PoEHdoIQKBgQDNInEN1wFur93bdNc+Oa0bzDTbqNMxgHlZ5XuB3Hr7sE3Qz8jf\nlmZBIeQ9nYIh2DLqRMkR2Iq1L8onj5pKrFxMITL7Tu9Qtl78P1m2cTB2SAqsfxnp\noCd+tkZFHcV2+Q9J1fBYmnrCm2U8+e6lf4Yva0uILcDf4E1UFzstYMQIpwKBgQCG\nmjwypyPW/PcZE4ar3ySdw9IV60pNb1CjibyERxXhNVPHPRqmT+2zPzxdyKsmw1pk\nO7VgZmoYjY+Fz4KK1QNjlgWrfUFQU+fotX8/g+E4a7dwGBEFx3E9dPYXDqEkdjUi\nqnXl3+Pl9jJ+e2edkqoMrBT91rLTezTPrkfohizUQQKBgAS22nPCF5ljNR/VcNaM\nKPgy0W3qAT+uk2+299u8BKD/AG/U5jEfLA0kpHn7DSn3Bs4X/nUm0+ScxxyO2+xh\n/lKG6qQYaT+qrMUyNZm30A0FXVj47itjQuW6joOdfFfPEnf0xN4atCLZK1Bcc71s\nHvJFCDP7jVcxOniojt1eThw4\n-----END PRIVATE KEY-----\n",
+  "client_email": "project-utopia-gemini@project-utopia-455218.iam.gserviceaccount.com",
+  "client_id": "105975662504191624807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project-utopia-gemini%40project-utopia-455218.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
